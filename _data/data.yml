@@ -203,6 +203,15 @@ oss:
         link: 
         tagline: "Spring 2022"
 
+education:
+    title: Teaching Experience
+    info:
+      - degree: PhD in Computerized Image Processing
+        university: Uppsala University
+        time: Sep 2020 - Present
+        details: |
+          Our overall
+
 publications:
     title: Publications
     intro: |
