@@ -213,10 +213,10 @@ publications:
         authors: H. Rostalski, T. Hietanen, S. Leskelä, A. Behánová, A. Abdollahzadeh, R. Wittrahm, P. Mäkinen, N. Huber, D. Hoffmann, E. Solje, A.M. Remes, T. Natunen, M. Takalo, J. Tohka, M. Hiltunen, A. Haapasalo
         conference: Frontiers in Neurology, 2020
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "The link between gliomas infiltration and white matter architecture investigated with electron microscopy and diffusion tensor imaging"
+        link: "https://www.sciencedirect.com/science/article/pii/S2213158221001790#"
+        authors: F. Latini, M. Fahlström, A. Beháňová, I. Sintorn, M. Hodik, K. Staxäng, M. Ryttlefors
+        conference: NeuroImage Clinical, 2021
 
       - title: A syntax directed compiler for Algol 60
         link: "#"
