@@ -191,16 +191,16 @@ oss:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     contributions:
-      - title: Trainer in Advanced Methods in Bioimage Analysis EMBO 2021
-        link: "https://www.embl.org/about/info/course-and-conference-office/events/bia21-01/#vf-tabs__section-53de8397-0f08-449c-b4a4-0fdca47249f2#"
+      - title: <a href="https://www.embl.org/about/info/course-and-conference-office/events/bia21-01/#vf-tabs__section-53de8397-0f08-449c-b4a4-0fdca47249f2">Trainer in Advanced Methods in Bioimage Analysis EMBO 2021</a>
+        link: 
         tagline: "Spring 2021"
 
-      - title: Trainer in Scifest 2021
-        link: "https://www.scifest.se/#"
+      - title: <a href="https://www.scifest.se/">Trainer in Scifest 2021</a>
+        link: 
         tagline: "Spring 2021"
       
-      - title: Editor of biennial report 2020-2021 of Center for Image Analysis
-        link: "https://www.it.uu.se/cba/files/AR2020_2021.pdf#"
+      - title: <a href="https://www.it.uu.se/cba/files/AR2020_2021.pdf">Editor of biennial report 2020-2021 of Center for Image Analysis</a>
+        link: 
         tagline: "Spring 2022"
 
 publications:
