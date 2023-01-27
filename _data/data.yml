@@ -184,10 +184,10 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-oss:
-    title: Other Activities
-      - title: Editor of biennial report 2020-2021 of Center for Image Analysis
-        link: "https://www.it.uu.se/cba/files/AR2020_2021.pdf"
+# oss:
+#     title: Other Activities
+#       - title: Editor of biennial report 2020-2021 of Center for Image Analysis
+#         link: "https://www.it.uu.se/cba/files/AR2020_2021.pdf"
       #   time: '2022'
 
       # - title: Atom
