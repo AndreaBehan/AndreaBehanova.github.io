@@ -188,13 +188,13 @@ oss:
     title: Other Activities
       - title: Editor of biennial report 2020-2021 of Center for Image Analysis
         link: "https://www.it.uu.se/cba/files/AR2020_2021.pdf"
-        time: '2022'
+      #   time: '2022'
 
-      - title: Atom
-        time: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      # - title: Atom
+      #   time: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        time: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      # - title: Delta
+      #   time: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
