@@ -188,11 +188,11 @@ projects:
 experiences_teaching:
     title: Teaching experience
     info:
-      - role: Researcher
-        time: Sep 2015 - Aug 2017
-        company: Brno University of Technology, Czech republic
+      - role: Medical informatics
+        time: 
+        company: Uppsala University, Sweden
         details: |
-          Research topics:
+          <a href="https://www.uu.se/en/admissions/freestanding-courses/course/?kKod=1MD030&typ=1">Course link</a>
 
 oss:
     title: Other Activities
