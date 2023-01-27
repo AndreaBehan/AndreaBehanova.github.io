@@ -229,23 +229,35 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Matlab
         level: 98%
 
-      - name: Angular
+      - name: Microsoft Office
         level: 98%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: InkScape
+        level: 98%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Programming language R
+        level: 80%
 
-      - name: Sketch & Photoshop
+      - name: MIT App Inventor
+        level: 80%
+
+      - name: Blender
         level: 60%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+      - name: Ultimaker Cura
+        level: 60%
+
+      - name: LabVIEW 2016
+        level: 50%
+
+      - name: Maple
+        level: 50%
+
+# footer: >
+#     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
