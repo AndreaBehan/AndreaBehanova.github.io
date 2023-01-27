@@ -159,13 +159,6 @@ experiences:
         company: Uppsala University, Sweden
         details: |
           Research topic: Research project on topic Image and data analysis for spatial transcriptomics and tissue architecture.
-    title: Teaching experience
-    info:
-      - role: Researcher
-        time: Sep 2015 - Aug 2017
-        company: Brno University of Technology, Czech republic
-        details: |
-          Research topics:
 
 projects:
     title: Projects
@@ -191,6 +184,15 @@ projects:
       - title: Delta
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+experiences_teaching:
+    title: Teaching experience
+    info:
+      - role: Researcher
+        time: Sep 2015 - Aug 2017
+        company: Brno University of Technology, Czech republic
+        details: |
+          Research topics:
 
 oss:
     title: Other Activities
