@@ -203,17 +203,17 @@ oss:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     contributions:
+      - title: Trainer in Advanced Methods in Bioimage Analysis EMBO 2021
+        link: "#"
+        tagline: "Spring 2021"
+
+      - title: Trainer in Scifest 2021
+        link: "#"
+        tagline: "Spring 2021"
+      
       - title: Editor of biennial report 2020-2021 of Center for Image Analysis
-        link: "https://www.it.uu.se/cba/files/AR2020_2021.pdf"
-        tagline: "2022"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        link: href="https://www.it.uu.se/cba/files/AR2020_2021.pdf"
+        tagline: "Spring 2022"
 
 publications:
     title: Publications
