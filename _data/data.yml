@@ -12,7 +12,7 @@ sidebar:
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: andrea.behanova1@gmail.com.com
+    email: andrea.behanova1@gmail.com
     phone: 00421902650997
     timezone: Sweden 
     citizenship: Slovak
@@ -58,83 +58,111 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: PhD in Computerized Image Processing
+        university: Uppsala University
+        time: Sep 2020 - Present
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+          Our overall objective is to develop an analysis and visualization 
+          platform that combines genetic profiling data with quantitative 
+          measurements of histological morphology. We will thus create a scalable, 
+          multi-layered visual representation of clinically relevant information in 
+          a morphological context. By providing spatial distributions of molecular 
+          profiles these can be correlated to morphological features providing new 
+          powerful information tools for understanding tumor heterogeneity and 
+          interactions with the tumor micro-environment. This particular PhD project 
+          will start to focus on understanding the spatial distribution of mRNA and 
+          cells working with graph-based methods.
+      - degree: MSc in Medical Physics
+        university: University of Eastern Finland
+        time: Sep 2018 - May 2020
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Master's Degree Programme in Medical Physics is a multidisciplinary 
+          two-year master's degree programme that combines high-level research 
+          and teaching. The programme is designed for all nationalities, and a 
+          maximum of 15 students will be accepted into it.
+          In the programme, curriculum theory meets practice: The programme 
+          includes the possibility for a clinical internship at the Kuopio 
+          University Hospital, consisting of e.g. quality assurance measurements, 
+          training in radiation dosage planning for cancer treatment and getting 
+          familiar with the routine tasks of a medical physicist. The clinical 
+          internship can be replaced with a research internship at one of the 
+          high-class research groups at the Department of Technical Physics at 
+          the University of Eastern Finland. The master’s programme will equip 
+          the student with specialist skills in the field of medical physics. 
+          In addition, the course of study will provide the expertise required 
+          to pursue a specialization as a medical physicist and can open pathways 
+          to further advanced studies and fellowship opportunities. Upon completion 
+          of the programme, the graduate will have a career path tailored to his 
+          or her needs or interests, creating a possibility of:
+            - Continuing advanced studies to pursue a career as a scientist
+            - Becoming a valuable part of industry (e.g., in health technology and engineering)
+            - Working in management and teaching
+            - Acting in science administration at national level or internationally
+            - Continuing in pursuit of a career as a specialized medical physicist
+      - degree: BSc in Biomedical Technology and Bioinformatics
+        university: Brno University of Technology
+        time: Sep 2014 - Jun 2017
+        details: |
+          The aim of the study program Biomedical Engineering and Bioinformatics 
+          is to educate practically oriented graduates, but also future students 
+          of follow-up master's courses at universities focused on the fields of 
+          biomedical engineering, medical informatics, bioinformatics and mathematical 
+          biology. The graduate will be equipped with theoretical knowledge of 
+          mathematics, physics and chemistry, biology, anatomy, physiology and 
+          pathophysiology of man, which are needed to understand the basic biological 
+          processes in the human body, general and professional language skills, 
+          as well as skills for communication with doctors and other medical staff. 
+          The graduate will master the principles of activity and the principles 
+          of using the means of medical technology and biomedical informatics, 
+          will be able to programmatically communicate with these means; will 
+          have an overview of current information in the field of legislation, 
+          which will be able to apply appropriately in practice. Emphasis is also 
+          placed on general and professional language training.
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Researcher
+        time: Sep 2015 - Aug 2017
+        company: Brno University of Technology, Czech republic
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          Research topics:
+            - Signal processing of ECG
+            - Localization of Epileptic Microseizures by Regression-Convolutional Neural Network System
+      - role: Erasmus Exchange Student in Applied Physics
+        time: Sep 2017 - Jun 2018
+        company: University of Eastern Finland
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          add courses
+      - role: Resercher
+        time: Oct 2017 - May 2018
+        company: University of Eastern Finland
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Research topic: ECG noise level estimation
+      - role: Researcher
+        time: Jan 2019 - Aug 2020
+        company: A.I. Virtanen Institute, Finland
+        details: |
+          Research topics:
+            - Automated 3D Segmentation and Morphometry of Myelinated Axons in Grey Matter
+            - Automated algorithm for segmentation of the cell's cytosol and nuclei in images acquired with fluorescence microscopy
+            - Implementation of UNet for segmentation for adenoviruses and debris in miniTEM images
+      - role: Internship
+        time: Jan 2020 - May 2020
+        company: Uppsala University, Sweden
+        details: |
+          Research topic: Developing computational strategies to improve the quality and resolution of electron microscopy image acquisition
+      - role: Resercher
+        time: Sep 2020 - Present
+        company: Uppsala University, Sweden
+        details: |
+          Research topic: Research project on topic Image and data analysis for spatial transcriptomics and tissue architecture.
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      List of projects I have worked on:
     assignments:
       - title: Velocity
         link: "#hook"
@@ -156,24 +184,24 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+# oss:
+#     title: OSS Contributions
+#     intro: >
+#       You can list your open source software contributions in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#     contributions:
+#       - title: Tempo
+#         link: "#"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#       - title: Atom
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#       - title: Delta
+#         link: "#"
+#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
