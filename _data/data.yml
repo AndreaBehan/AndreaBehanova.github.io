@@ -165,25 +165,21 @@ projects:
     intro: >
       List of projects I have worked on:
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
+      - title: Spage2vec
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: 
 
-      - title: Tempo
+      - title: Bladder Cancer
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: 
 
-      - title: Atom
+      - title: Tissue microarrays
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: 
 
-      - title: Delta
+      - title: TissUUmaps
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: 
 
 experiences_teaching:
     title: Teaching experience
@@ -194,20 +190,20 @@ experiences_teaching:
         details: |
           
       - role: Computer-Assisted Image Analysis I
-        time: 
+        time: <a href="https://www.uu.se/en/admissions/freestanding-courses/course/?kKod=1TD396&typ=1">Course link</a>
         company: Uppsala University, Sweden
         details: |
-          <a href="https://www.uu.se/en/admissions/freestanding-courses/course/?kKod=1TD396&typ=1">Course link</a>
+          
       - role: Deep Learning for Image Analysis
-        time: 
+        time: <a href="https://www.uu.se/en/admissions/freestanding-courses/course/?kKod=1MD120&typ=1">Course link</a>
         company: Uppsala University, Sweden
         details: |
-          <a href="https://www.uu.se/en/admissions/freestanding-courses/course/?kKod=1MD120&typ=1">Course link</a>
+          
       - role: Deep Learning (DL) PhD course
-        time: 
+        time: <a href="https://www.it.uu.se/research/systems_and_control/education/2019/dl">Course link</a>
         company: Uppsala University, Sweden
         details: |
-          <a href="https://www.it.uu.se/research/systems_and_control/education/2019/dl">Course link</a>
+          
 
 oss:
     title: Other Activities
@@ -227,6 +223,14 @@ oss:
       - title: <a href="https://www.it.uu.se/cba/files/AR2020_2021.pdf">Editor of biennial report 2020-2021 of Center for Image Analysis</a>
         link: 
         tagline: "Spring 2022"
+
+      - title: <a href="https://ssba.org.se/ssba2022/">Organizer of conference SSBA/SSDL 2022</a>
+        link: 
+        tagline: "Spring 2022"
+
+      - title: <a href="https://visum.inesctec.pt/">Participant in summer school VISUM 2022</a>
+        link: 
+        tagline: "Summer 2022"
 
 
 
