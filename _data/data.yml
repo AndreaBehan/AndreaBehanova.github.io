@@ -213,15 +213,35 @@ publications:
         authors: H. Rostalski, T. Hietanen, S. Leskelä, A. Behánová, A. Abdollahzadeh, R. Wittrahm, P. Mäkinen, N. Huber, D. Hoffmann, E. Solje, A.M. Remes, T. Natunen, M. Takalo, J. Tohka, M. Hiltunen, A. Haapasalo
         conference: Frontiers in Neurology, 2020
 
-      - title: "The link between gliomas infiltration and white matter architecture investigated with electron microscopy and diffusion tensor imaging"
+      - title: The link between gliomas infiltration and white matter architecture investigated with electron microscopy and diffusion tensor imaging
         link: "https://www.sciencedirect.com/science/article/pii/S2213158221001790#"
         authors: F. Latini, M. Fahlström, A. Beháňová, I. Sintorn, M. Hodik, K. Staxäng, M. Ryttlefors
         conference: NeuroImage Clinical, 2021
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Spatial statistics for understanding tissue organization
+        link: "https://www.frontiersin.org/articles/10.3389/fphys.2022.832417/full?utm_source=dlvr.it&utm_medium=twitter#"
+        authors: A. Behanova, A. Klemm, C. Wählby
+        conference: Frontiers in Physiology, 2022
+
+      - title: "TissUUmaps 3: Interactive visualization and quality assessment of large-scale spatial omics data"
+        link: "https://www.biorxiv.org/content/10.1101/2022.01.28.478131v2.abstract#"
+        authors: N. Pielawski, A. Andersson, C. Avenel, A. Behanova, E. Chelebian, A. Klemm, F. Nysjö, L. Solorzano, C. Wählby
+        conference: bioRxiv, 2022
+
+      - title: gACSON software for automated segmentation and morphology analyses of myelinated axons in 3D electron microscopy
+        link: "https://www.sciencedirect.com/science/article/pii/S0169260722001766#"
+        authors: A. Behanova, A. Abdollahzadeh, I. Belevich, E. Jokitalo, A. Sierra, J. Tohka
+        conference: Computer Methods and Programs in Biomedicine, 2022
+
+      - title: TissUUmaps 3 Tools for Visualization & Quality Control in Large-scale Multiplex Tissue Analysis
+        link: "https://www.biorxiv.org/content/10.1101/2022.12.01.518716v1.abstract#"
+        authors: A. Behanova, C. Avenel, A. Andersson, E. Chelebian, A. Klemm, L. Wik, A. Ostman, C. Wahlby
+        conference: bioRxiv, 2022
+
+      - title: "Points2regions: Fast Interactive Clustering Of In Situ Transcriptomics Data"
+        link: "https://www.biorxiv.org/content/10.1101/2022.12.07.519086v1.abstract#"
+        authors: A. Andersson, A. Behanova, C. Avenel, C. Wählby, F. Malmberg
+        conference: bioRxiv, 2022
 
 skills:
     title: Skills &amp; Proficiency
