@@ -203,14 +203,14 @@ oss:
         link: 
         tagline: "Spring 2022"
 
-education:
-    title: Teaching Experience
+experiences:
+    title: Teaching experience
     info:
-      - degree: PhD in Computerized Image Processing
-        university: Uppsala University
-        time: Sep 2020 - Present
+      - role: Researcher
+        time: Sep 2015 - Aug 2017
+        company: Brno University of Technology, Czech republic
         details: |
-          Our overall
+          Research topics:
 
 publications:
     title: Publications
