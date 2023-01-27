@@ -7,23 +7,22 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Andrea Behanova
+    tagline: Computer Scientist
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    email: andrea.behanova1@gmail.com.com
+    phone: 00421902650997
+    timezone: Sweden 
+    citizenship: Slovak
+    website: andrea-behanova.github.io
+    linkedin: andrea-behanova
+    github: Andrea-Behanova
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@AndreaBehanova'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -32,26 +31,29 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Slovak
           level: Native
 
-        - idiom: French
-          level: Professional
+        - idiom: English
+          level: C2
 
         - idiom: Spanish
-          level: Professional
+          level: B1
 
-    interests:
-      title: Interests
-      info:
-        - item: Climbing
-          link:
+        - idiom: Czech
+          level: C2
 
-        - item: Snowboarding
-          link:
+    # interests:
+    #   title: Interests
+    #   info:
+    #     - item: Climbing
+    #       link:
 
-        - item: Cooking
-          link:
+    #     - item: Snowboarding
+    #       link:
+
+    #     - item: Cooking
+    #       link:
 
 career-profile:
     title: Career Profile
