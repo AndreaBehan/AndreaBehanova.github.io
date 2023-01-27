@@ -197,15 +197,15 @@ projects:
       #   time: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 oss:
-    title: OSS Contributions
+    title: Other Activities
     intro: >
       You can list your open source software contributions in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Editor of biennial report 2020-2021 of Center for Image Analysis
+        link: "https://www.it.uu.se/cba/files/AR2020_2021.pdf"
+        tagline: "2022"
 
       - title: Atom
         link: "#"
