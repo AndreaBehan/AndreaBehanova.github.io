@@ -160,26 +160,26 @@ experiences:
         details: |
           Research topic: Research project on topic Image and data analysis for spatial transcriptomics and tissue architecture.
 
-projects:
-    title: Projects
-    intro: >
-      List of projects I have worked on:
-    assignments:
-      - title: Spage2vec
-        link: "#"
-        tagline: 
+# projects:
+#     title: Projects
+#     intro: >
+#       List of projects I have worked on:
+#     assignments:
+#       - title: Spage2vec
+#         link: "#"
+#         tagline: 
 
-      - title: Bladder Cancer
-        link: "#"
-        tagline: 
+#       - title: Bladder Cancer
+#         link: "#"
+#         tagline: 
 
-      - title: Tissue microarrays
-        link: "#"
-        tagline: 
+#       - title: Tissue microarrays
+#         link: "#"
+#         tagline: 
 
-      - title: TissUUmaps
-        link: "#"
-        tagline: 
+#       - title: TissUUmaps
+#         link: "#"
+#         tagline: 
 
 experiences_teaching:
     title: Teaching experience
@@ -232,11 +232,15 @@ oss:
         link: 
         tagline: "Summer 2022"
 
+      - title: <a href="https://github.com/BIIFSweden/SpatialWorkshop">Organizer of BIIF-Spatial Omics Workshop</a>
+        link: 
+        tagline: "Autumn 2022"
+
       - title: PhD representative
         link: 
         tagline: "2022-Present"
 
-      - title: Editor of newsletter of Society for Automated Image Analysis (SSBA)
+      - title: <a href="https://ssba.org.se/nyhetsbrev/">Editor of newsletter of Society for Automated Image Analysis (SSBA)</a>
         link: 
         tagline: "2022-Present"
 
@@ -287,10 +291,10 @@ skills:
 
     toolset:
       - name: Python
-        # level: 98%
+        level: 98%
 
       - name: Matlab
-        # level: 98%
+        level: 98%
 
       - name: Microsoft Office
         level: 98%
