@@ -26,7 +26,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    # pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
@@ -232,6 +232,14 @@ oss:
         link: 
         tagline: "Summer 2022"
 
+      - title: PhD representative
+        link: 
+        tagline: "2022-Present"
+
+      - title: Editor of newsletter of Society for Automated Image Analysis (SSBA)
+        link: 
+        tagline: "2022-Present"
+
 
 
 publications:
@@ -279,10 +287,10 @@ skills:
 
     toolset:
       - name: Python
-        level: 98%
+        # level: 98%
 
       - name: Matlab
-        level: 98%
+        # level: 98%
 
       - name: Microsoft Office
         level: 98%
