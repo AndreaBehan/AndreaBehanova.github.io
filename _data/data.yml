@@ -263,10 +263,10 @@ publications:
     intro: |
       List of publications:
     papers:
-      - title: TissUUmaps 3 Tools for Visualization & Quality Control in Large-scale Multiplex Tissue Analysis
-        link: "https://www.biorxiv.org/content/10.1101/2022.12.01.518716v1.abstract#"
+      - title: Visualization and quality control tools for large-scale multiplex tissue analysis in TissUUmaps3
+        link: "https://doi.org/10.1017/S2633903X23000053"
         authors: A. Behanova, C. Avenel, A. Andersson, E. Chelebian, A. Klemm, L. Wik, A. Ostman, C. Wahlby
-        conference: bioRxiv, 2022
+        conference: Biological Imaging, Cambridge Univeristy Press, 2023
 
       - title: "Points2regions: Fast Interactive Clustering Of In Situ Transcriptomics Data"
         link: "https://www.biorxiv.org/content/10.1101/2022.12.07.519086v1.abstract#"
