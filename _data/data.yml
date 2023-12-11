@@ -136,7 +136,7 @@ experiences:
         company: University of Eastern Finland
         details: |
           
-      - role: Resercher
+      - role: Researcher
         time: Oct 2017 - May 2018
         company: University of Eastern Finland
         details: |
@@ -154,13 +154,13 @@ experiences:
         company: Uppsala University, Sweden
         details: |
           Research topic: Developing computational strategies to improve the quality and resolution of electron microscopy image acquisition
-      - role: Resercher
+      - role: Researcher
         time: Sep 2020 - Present
         company: Uppsala University, Sweden
         details: |
           Research topic: Research project on topic Image and data analysis for spatial transcriptomics and tissue architecture.
-      - role: Resercher
-        time: Sep 2023
+      - role: Internship
+        time: September 2023
         company: EMBL Rome, Italy
         details: |
           Research topic: Implementing an image analysis pipeline to profile the patterns of expression of 200 murine olfactory receptor genes in a single nasal epithelium of a mouse. 
