@@ -159,6 +159,11 @@ experiences:
         company: Uppsala University, Sweden
         details: |
           Research topic: Research project on topic Image and data analysis for spatial transcriptomics and tissue architecture.
+      - role: Resercher
+        time: Sep 2023
+        company: EMBL Rome, Italy
+        details: |
+          Research topic: Implementing an image analysis pipeline to profile the patterns of expression of 200 murine olfactory receptor genes in a single nasal epithelium of a mouse. 
 
 # projects:
 #     title: Projects
@@ -212,6 +217,10 @@ oss:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     contributions:
+      - title: <a href="https://www.igp.uu.se/storm/about-storm">Organizer of STorM retreat 2023</a>
+        link: 
+        tagline: "Autumn 2023"
+
       - title: PhD representative
         link: 
         tagline: "2022-Present"
@@ -263,6 +272,16 @@ publications:
     intro: |
       List of publications:
     papers:
+      - title: "Cell Segmentation of in situ Transcriptomics Data Using Signed Graph Partitioning"
+        link: "https://link.springer.com/chapter/10.1007/978-3-031-42795-4_13"
+        authors: A. Andersson*, A. Behanova*, C. Wählby, F. Malmberg
+        conference: Lecture Notes in Computer Science, Springer, 2023
+
+      - title: "TissUUmaps 3: Interactive visualization and quality assessment of large-scale spatial omics data"
+        link: "https://www.sciencedirect.com/science/article/pii/S2405844023025136"
+        authors: N. Pielawski, A. Andersson, C. Avenel, A. Behanova, E. Chelebian, A. Klemm, F. Nysjö, L. Solorzano, C. Wählby
+        conference: Heliyon, CellPress, 2023
+
       - title: Visualization and quality control tools for large-scale multiplex tissue analysis in TissUUmaps3
         link: "https://doi.org/10.1017/S2633903X23000053"
         authors: A. Behanova, C. Avenel, A. Andersson, E. Chelebian, A. Klemm, L. Wik, A. Ostman, C. Wahlby
@@ -270,18 +289,13 @@ publications:
 
       - title: "Points2regions: Fast Interactive Clustering Of In Situ Transcriptomics Data"
         link: "https://www.biorxiv.org/content/10.1101/2022.12.07.519086v1.abstract#"
-        authors: A. Andersson, A. Behanova, C. Avenel, C. Wählby, F. Malmberg
+        authors: A. Andersson*, A. Behanova*, C. Avenel, C. Wählby, F. Malmberg
         conference: bioRxiv, 2022
 
       - title: gACSON software for automated segmentation and morphology analyses of myelinated axons in 3D electron microscopy
         link: "https://www.sciencedirect.com/science/article/pii/S0169260722001766#"
         authors: A. Behanova, A. Abdollahzadeh, I. Belevich, E. Jokitalo, A. Sierra, J. Tohka
         conference: Computer Methods and Programs in Biomedicine, 2022
-
-      - title: "TissUUmaps 3: Interactive visualization and quality assessment of large-scale spatial omics data"
-        link: "https://www.biorxiv.org/content/10.1101/2022.01.28.478131v2.abstract#"
-        authors: N. Pielawski, A. Andersson, C. Avenel, A. Behanova, E. Chelebian, A. Klemm, F. Nysjö, L. Solorzano, C. Wählby
-        conference: bioRxiv, 2022
 
       - title: Spatial statistics for understanding tissue organization
         link: "https://www.frontiersin.org/articles/10.3389/fphys.2022.832417/full?utm_source=dlvr.it&utm_medium=twitter#"
