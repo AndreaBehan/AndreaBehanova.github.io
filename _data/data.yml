@@ -1,0 +1,351 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Andrea Behanova
+    tagline: Computer Scientist
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: andrea.behanova1@gmail.com
+    phone: 00421902650997
+    timezone: Sweden 
+    citizenship: Slovak
+    website: andrea-behanova.github.io
+    linkedin: andrea-behanova
+    github: Andrea-Behanova
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: '@AndreaBehanova'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    # pdf: http://www.africau.edu/images/default/sample.pdf
+
+    languages:
+      title: Languages
+      info:
+        - idiom: Slovak
+          level: Native
+
+        - idiom: English
+          level: C2
+
+        - idiom: Spanish
+          level: B1
+
+        - idiom: Czech
+          level: C2
+
+    # interests:
+    #   title: Interests
+    #   info:
+    #     - item: Climbing
+    #       link:
+
+    #     - item: Snowboarding
+    #       link:
+
+    #     - item: Cooking
+    #       link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+        PhD student at Uppsala University, specializing in the dynamic field of computerized image processing. My research primarily revolves around image and data analysis, with a specific emphasis on spatial transcriptomics and tissue architecture.
+education:
+    title: Education
+    info:
+      - degree: PhD in Computerized Image Processing
+        university: Uppsala University
+        time: Sep 2020 - Present
+        details: |
+          Our overall objective is to develop an analysis and visualization 
+          platform that combines genetic profiling data with quantitative 
+          measurements of histological morphology. We will thus create a scalable, 
+          multi-layered visual representation of clinically relevant information in 
+          a morphological context. By providing spatial distributions of molecular 
+          profiles these can be correlated to morphological features providing new 
+          powerful information tools for understanding tumor heterogeneity and 
+          interactions with the tumor micro-environment. This particular PhD project 
+          will start to focus on understanding the spatial distribution of mRNA and 
+          cells working with graph-based methods.
+      - degree: MSc in Medical Physics
+        university: University of Eastern Finland
+        time: Sep 2018 - May 2020
+        details: |
+          Master's Degree Programme in Medical Physics is a multidisciplinary 
+          two-year master's degree programme that combines high-level research 
+          and teaching. The programme is designed for all nationalities, and a 
+          maximum of 15 students will be accepted into it.
+          In the programme, curriculum theory meets practice: The programme 
+          includes the possibility for a clinical internship at the Kuopio 
+          University Hospital, consisting of e.g. quality assurance measurements, 
+          training in radiation dosage planning for cancer treatment and getting 
+          familiar with the routine tasks of a medical physicist. The clinical 
+          internship can be replaced with a research internship at one of the 
+          high-class research groups at the Department of Technical Physics at 
+          the University of Eastern Finland. The master’s programme will equip 
+          the student with specialist skills in the field of medical physics. 
+          In addition, the course of study will provide the expertise required 
+          to pursue a specialization as a medical physicist and can open pathways 
+          to further advanced studies and fellowship opportunities. Upon completion 
+          of the programme, the graduate will have a career path tailored to his 
+          or her needs or interests, creating a possibility of:
+            - Continuing advanced studies to pursue a career as a scientist
+            - Becoming a valuable part of industry (e.g., in health technology and engineering)
+            - Working in management and teaching
+            - Acting in science administration at national level or internationally
+            - Continuing in pursuit of a career as a specialized medical physicist
+      - degree: BSc in Biomedical Technology and Bioinformatics
+        university: Brno University of Technology
+        time: Sep 2014 - Jun 2017
+        details: |
+          The aim of the study program Biomedical Engineering and Bioinformatics 
+          is to educate practically oriented graduates, but also future students 
+          of follow-up master's courses at universities focused on the fields of 
+          biomedical engineering, medical informatics, bioinformatics and mathematical 
+          biology. The graduate will be equipped with theoretical knowledge of 
+          mathematics, physics and chemistry, biology, anatomy, physiology and 
+          pathophysiology of man, which are needed to understand the basic biological 
+          processes in the human body, general and professional language skills, 
+          as well as skills for communication with doctors and other medical staff. 
+          The graduate will master the principles of activity and the principles 
+          of using the means of medical technology and biomedical informatics, 
+          will be able to programmatically communicate with these means; will 
+          have an overview of current information in the field of legislation, 
+          which will be able to apply appropriately in practice. Emphasis is also 
+          placed on general and professional language training.
+experiences:
+    title: Experiences
+    info:
+      - role: Researcher
+        time: Sep 2015 - Aug 2017
+        company: Brno University of Technology, Czech republic
+        details: |
+          Research topics:
+            - Signal processing of ECG
+            - Localization of Epileptic Microseizures by Regression-Convolutional Neural Network System
+      - role: Erasmus Exchange Student in Applied Physics
+        time: Sep 2017 - Jun 2018
+        company: University of Eastern Finland
+        details: |
+          
+      - role: Researcher
+        time: Oct 2017 - May 2018
+        company: University of Eastern Finland
+        details: |
+          Research topic: ECG noise level estimation
+      - role: Researcher
+        time: Jan 2019 - Aug 2020
+        company: A.I. Virtanen Institute, Finland
+        details: |
+          Research topics:
+            - Automated 3D Segmentation and Morphometry of Myelinated Axons in Grey Matter
+            - Automated algorithm for segmentation of the cell's cytosol and nuclei in images acquired with fluorescence microscopy
+            - Implementation of UNet for segmentation for adenoviruses and debris in miniTEM images
+      - role: Internship
+        time: Jan 2020 - May 2020
+        company: Uppsala University, Sweden
+        details: |
+          Research topic: Developing computational strategies to improve the quality and resolution of electron microscopy image acquisition
+      - role: Researcher
+        time: Sep 2020 - Present
+        company: Uppsala University, Sweden
+        details: |
+          Research topic: Research project on topic Image and data analysis for spatial transcriptomics and tissue architecture.
+      - role: Internship
+        time: September 2023
+        company: EMBL Rome, Italy
+        details: |
+          Research topic: Implementing an image analysis pipeline to profile the patterns of expression of 200 murine olfactory receptor genes in a single nasal epithelium of a mouse. 
+
+# projects:
+#     title: Projects
+#     intro: >
+#       List of projects I have worked on:
+#     assignments:
+#       - title: Spage2vec
+#         link: "#"
+#         tagline: 
+
+#       - title: Bladder Cancer
+#         link: "#"
+#         tagline: 
+
+#       - title: Tissue microarrays
+#         link: "#"
+#         tagline: 
+
+#       - title: TissUUmaps
+#         link: "#"
+#         tagline: 
+
+experiences_teaching:
+    title: Teaching experience
+    info:
+      - role: Medical informatics
+        time: <a href="https://www.uu.se/en/admissions/freestanding-courses/course/?kKod=1MD030&typ=1">Course link</a>
+        company: Uppsala University, Sweden
+        details: |
+          
+      - role: Computer-Assisted Image Analysis I
+        time: <a href="https://www.uu.se/en/admissions/freestanding-courses/course/?kKod=1TD396&typ=1">Course link</a>
+        company: Uppsala University, Sweden
+        details: |
+          
+      - role: Deep Learning for Image Analysis
+        time: <a href="https://www.uu.se/en/admissions/freestanding-courses/course/?kKod=1MD120&typ=1">Course link</a>
+        company: Uppsala University, Sweden
+        details: |
+          
+      - role: Deep Learning (DL) PhD course
+        time: <a href="https://www.it.uu.se/research/systems_and_control/education/2019/dl">Course link</a>
+        company: Uppsala University, Sweden
+        details: |
+          
+
+oss:
+    title: Other Activities
+    intro: >
+      You can list your open source software contributions in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    contributions:
+      - title: <a href="https://www.igp.uu.se/storm/about-storm">Organizer of STorM retreat 2023</a>
+        link: 
+        tagline: "Autumn 2023"
+
+      - title: PhD representative
+        link: 
+        tagline: "2022-Present"
+
+      - title: <a href="https://ssba.org.se/nyhetsbrev/">Editor of newsletter of Society for Automated Image Analysis (SSBA)</a>
+        link: 
+        tagline: "2022-Present"
+
+      - title: <a href="https://github.com/BIIFSweden/SpatialWorkshop">Organizer of BIIF-Spatial Omics Workshop</a>
+        link: 
+        tagline: "Autumn 2022"
+
+      - title: <a href="https://visum.inesctec.pt/">Participant in summer school VISUM 2022</a>
+        link: 
+        tagline: "Summer 2022"
+
+      - title: <a href="https://www.uuinnovation.uu.se/credit-bearing-course">Course on Intellectual property in research</a>
+        link: 
+        tagline: "Spring 2022"
+
+      - title: <a href="https://ssba.org.se/ssba2022/">Organizer of conference SSBA/SSDL 2022</a>
+        link: 
+        tagline: "Spring 2022"
+
+      - title: <a href="https://www.it.uu.se/cba/files/AR2020_2021.pdf">Editor of biennial report 2020-2021 of Center for Image Analysis</a>
+        link: 
+        tagline: "Spring 2022"
+
+      - title: <a href="https://www.teknat.uu.se/education/doctoral-studies/courses/faculty/project-work-and-project-management-for-phd-students">Course on Project work and project management</a>
+        link: 
+        tagline: "Autumn 2021"
+
+      - title: <a href="https://evagaresp.wixsite.com/scicomm">Course on Science Communication and Outreach</a>
+        link: 
+        tagline: "Autumn 2021"
+
+      - title: <a href="https://www.scifest.se/">Trainer in Scifest 2021</a>
+        link: 
+        tagline: "Spring 2021"
+
+      - title: <a href="https://www.embl.org/about/info/course-and-conference-office/events/bia21-01/#vf-tabs__section-53de8397-0f08-449c-b4a4-0fdca47249f2">Trainer in Advanced Methods in Bioimage Analysis EMBO 2021</a>
+        link: 
+        tagline: "Spring 2021"
+
+
+
+publications:
+    title: Publications
+    intro: |
+      List of publications:
+    papers:
+      - title: "Cell Segmentation of in situ Transcriptomics Data Using Signed Graph Partitioning"
+        link: "https://link.springer.com/chapter/10.1007/978-3-031-42795-4_13"
+        authors: A. Andersson*, A. Behanova*, C. Wählby, F. Malmberg
+        conference: Lecture Notes in Computer Science, Springer, 2023
+
+      - title: "TissUUmaps 3: Interactive visualization and quality assessment of large-scale spatial omics data"
+        link: "https://www.sciencedirect.com/science/article/pii/S2405844023025136"
+        authors: N. Pielawski, A. Andersson, C. Avenel, A. Behanova, E. Chelebian, A. Klemm, F. Nysjö, L. Solorzano, C. Wählby
+        conference: Heliyon, CellPress, 2023
+
+      - title: Visualization and quality control tools for large-scale multiplex tissue analysis in TissUUmaps3
+        link: "https://doi.org/10.1017/S2633903X23000053"
+        authors: A. Behanova, C. Avenel, A. Andersson, E. Chelebian, A. Klemm, L. Wik, A. Ostman, C. Wahlby
+        conference: Biological Imaging, Cambridge University Press, 2023
+
+      - title: "Points2regions: Fast Interactive Clustering Of In Situ Transcriptomics Data"
+        link: "https://www.biorxiv.org/content/10.1101/2022.12.07.519086v1.abstract#"
+        authors: A. Andersson*, A. Behanova*, C. Avenel, C. Wählby, F. Malmberg
+        conference: bioRxiv, 2022
+
+      - title: gACSON software for automated segmentation and morphology analyses of myelinated axons in 3D electron microscopy
+        link: "https://www.sciencedirect.com/science/article/pii/S0169260722001766#"
+        authors: A. Behanova, A. Abdollahzadeh, I. Belevich, E. Jokitalo, A. Sierra, J. Tohka
+        conference: Computer Methods and Programs in Biomedicine, 2022
+
+      - title: Spatial statistics for understanding tissue organization
+        link: "https://www.frontiersin.org/articles/10.3389/fphys.2022.832417/full?utm_source=dlvr.it&utm_medium=twitter#"
+        authors: A. Behanova, A. Klemm, C. Wählby
+        conference: Frontiers in Physiology, 2022
+
+      - title: The link between gliomas infiltration and white matter architecture investigated with electron microscopy and diffusion tensor imaging
+        link: "https://www.sciencedirect.com/science/article/pii/S2213158221001790#"
+        authors: F. Latini, M. Fahlström, A. Beháňová, I. Sintorn, M. Hodik, K. Staxäng, M. Ryttlefors
+        conference: NeuroImage Clinical, 2021
+
+      - title: BV-2 microglial cells overexpressing C9orf72 hexanucleotide repeat expansion produce DPR proteins and show Normal functionality but no RNA foci
+        link: "https://www.frontiersin.org/articles/10.3389/fneur.2020.550140/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Neurology&id=550140#"
+        authors: H. Rostalski, T. Hietanen, S. Leskelä, A. Behánová, A. Abdollahzadeh, R. Wittrahm, P. Mäkinen, N. Huber, D. Hoffmann, E. Solje, A.M. Remes, T. Natunen, M. Takalo, J. Tohka, M. Hiltunen, A. Haapasalo
+        conference: Frontiers in Neurology, 2020
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python
+        level: 98%
+
+      - name: Matlab
+        level: 98%
+
+      - name: Microsoft Office
+        level: 98%
+
+      - name: InkScape
+        level: 98%
+
+      - name: Programming language R
+        level: 80%
+
+      - name: MIT App Inventor
+        level: 80%
+
+      - name: Blender
+        level: 60%
+
+      - name: Ultimaker Cura
+        level: 60%
+
+      - name: LabVIEW 2016
+        level: 50%
+
+      - name: Maple
+        level: 50%
+
+# footer: >
+#     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
